@@ -29,7 +29,7 @@ python3 -m http.server 8000
 ## GitHub Pages
 
 `main` ブランチのルートを GitHub Pages の公開元に設定しています。
-公開URL: https://katzkawai.github.io/kklab-deepseek-v41-flash-1017/
+公開URL: https://katzkawai.org/kklab-deepseek-v41-flash-1017/
 
 ## 補足
 
