@@ -1594,6 +1594,8 @@ button {
 
   .nav::before {
     content: "MENU";
+    align-self: center;
+    width: min(320px, 100%);
     color: var(--gold-2);
     font-family: var(--font-sans);
     font-size: 0.58rem;
